@@ -1,0 +1,20 @@
+{
+    "name": "luxun/jg",
+    "description": "极光推送",
+    "authors": [
+        {
+            "name": "Xun Lu",
+            "email": "lusunupup@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "jg\\push\\": "src/"
+        }
+    }
+}
+}
